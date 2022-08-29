@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tepe13
 - 👀 I’m interested in DevOps and Cloud
 - 🌱 I’m currently learning Python and studying for my AZ-104 certification
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for an Entry level position
 - 📫 How to reach me https://www.linkedin.com/in/mario-tepelena/
 
 <!---
